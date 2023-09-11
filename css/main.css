@@ -2340,7 +2340,7 @@ header.header {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #6500a3;
+  background: #3dff91;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
