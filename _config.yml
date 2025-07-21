@@ -16,8 +16,7 @@ timezone: Asia/Shanghai
 
 title: BeihaiTianming # the main title
 
-tagline: title: BeihaiTianming's personal homepage # the main title
- # it will display as the subtitle
+tagline: BeihaiTianming's personal homepage # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
